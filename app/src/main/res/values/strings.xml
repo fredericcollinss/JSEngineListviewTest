@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JSEnginePerformanceTest</string>
+    <string name="duktape_text">duktape list view</string>
+    <string name="jscore_text">jscore</string>
+    <string name="js_eval_text">js evaluator</string>
+    <string name="v8_text">J2V8</string>
+</resources>
